@@ -24,7 +24,5 @@ public class App
 
         System.out.printf("After %d years at %.1f%%, the investment will be worth $%.0f.", years, rate, total);
 
-        //System.out.printf("%d euros at an exchange rate of %.4f is\n" +
-                //"%.2f U.S. dollars.", euros,rate,dollars);
     }
 }
